@@ -3,7 +3,7 @@
         "children": [
             {
                 "dateAdded": 1739782791170,
-                "dateLastUsed": 1749177167955,
+                "dateLastUsed": 1749793615527,
                 "id": "6096",
                 "index": 0,
                 "parentId": "1",
@@ -13,7 +13,7 @@
             },
             {
                 "dateAdded": 1710831771707,
-                "dateLastUsed": 1749518876261,
+                "dateLastUsed": 1750303567995,
                 "id": "5813",
                 "index": 1,
                 "parentId": "1",
@@ -33,7 +33,7 @@
             },
             {
                 "dateAdded": 1739499697065,
-                "dateLastUsed": 1749693473135,
+                "dateLastUsed": 1750153930086,
                 "id": "6094",
                 "index": 3,
                 "parentId": "1",
@@ -115,7 +115,7 @@
                     },
                     {
                         "dateAdded": 1710831771799,
-                        "dateLastUsed": 1749718825740,
+                        "dateLastUsed": 1750333519408,
                         "id": "5835",
                         "index": 2,
                         "parentId": "5820",
@@ -125,7 +125,7 @@
                     },
                     {
                         "dateAdded": 1715135395242,
-                        "dateLastUsed": 1749606473311,
+                        "dateLastUsed": 1750399584042,
                         "id": "6024",
                         "index": 3,
                         "parentId": "5820",
@@ -135,7 +135,7 @@
                     },
                     {
                         "dateAdded": 1735108359055,
-                        "dateLastUsed": 1749690834727,
+                        "dateLastUsed": 1750386710326,
                         "id": "6080",
                         "index": 4,
                         "parentId": "5820",
@@ -155,7 +155,7 @@
                     }
                 ],
                 "dateAdded": 1710831771715,
-                "dateGroupModified": 1749536037981,
+                "dateGroupModified": 1750410363480,
                 "id": "5820",
                 "index": 9,
                 "parentId": "1",
@@ -330,7 +330,7 @@
                             },
                             {
                                 "dateAdded": 1710831771829,
-                                "dateLastUsed": 1749691217410,
+                                "dateLastUsed": 1750409702329,
                                 "id": "5970",
                                 "index": 1,
                                 "parentId": "5848",
@@ -511,7 +511,7 @@
                         "children": [
                             {
                                 "dateAdded": 1722908084440,
-                                "dateLastUsed": 1749633428697,
+                                "dateLastUsed": 1750399490953,
                                 "id": "6052",
                                 "index": 0,
                                 "parentId": "6053",
@@ -560,7 +560,7 @@
                 "children": [
                     {
                         "dateAdded": 1733299141936,
-                        "dateLastUsed": 1749717341854,
+                        "dateLastUsed": 1750332459539,
                         "id": "6069",
                         "index": 0,
                         "parentId": "6068",
@@ -570,7 +570,7 @@
                     },
                     {
                         "dateAdded": 1734572593759,
-                        "dateLastUsed": 1749717425278,
+                        "dateLastUsed": 1750332463240,
                         "id": "6073",
                         "index": 1,
                         "parentId": "6068",
@@ -590,7 +590,7 @@
                     },
                     {
                         "dateAdded": 1749116273811,
-                        "dateLastUsed": 1749716382680,
+                        "dateLastUsed": 1750405656396,
                         "id": "6118",
                         "index": 3,
                         "parentId": "6068",
@@ -1071,7 +1071,7 @@
                     },
                     {
                         "dateAdded": 1740106087494,
-                        "dateLastUsed": 1747790860769,
+                        "dateLastUsed": 1749724920007,
                         "id": "6097",
                         "index": 22,
                         "parentId": "5825",
@@ -1091,7 +1091,7 @@
                     },
                     {
                         "dateAdded": 1747806276270,
-                        "dateLastUsed": 1749691560568,
+                        "dateLastUsed": 1749778352811,
                         "id": "6110",
                         "index": 24,
                         "parentId": "5825",
@@ -1101,7 +1101,7 @@
                     },
                     {
                         "dateAdded": 1747981648221,
-                        "dateLastUsed": 1749718961486,
+                        "dateLastUsed": 1750407361906,
                         "id": "6111",
                         "index": 25,
                         "parentId": "5825",
@@ -1111,17 +1111,26 @@
                     },
                     {
                         "dateAdded": 1748323911286,
-                        "dateLastUsed": 1749718967578,
+                        "dateLastUsed": 1750410309259,
                         "id": "6113",
                         "index": 26,
                         "parentId": "5825",
                         "syncing": true,
                         "title": "【纳斯达克100指数期货】今日股指期货实时行情,最新价格,走势图表分析_英为财情",
                         "url": "https://cn.investing.com/indices/nq-100-futures"
+                    },
+                    {
+                        "dateAdded": 1750410363480,
+                        "id": "6123",
+                        "index": 27,
+                        "parentId": "5825",
+                        "syncing": true,
+                        "title": "【香港恒生指数期货】今日股指期货实时行情,最新价格,走势图表分析_英为财情",
+                        "url": "https://cn.investing.com/indices/hong-kong-40-futures"
                     }
                 ],
                 "dateAdded": 1710831771719,
-                "dateGroupModified": 1748598543151,
+                "dateGroupModified": 1750410375330,
                 "id": "5825",
                 "index": 14,
                 "parentId": "1",
@@ -1993,7 +2002,7 @@
                     },
                     {
                         "dateAdded": 1735095404777,
-                        "dateLastUsed": 1747212450228,
+                        "dateLastUsed": 1750072529040,
                         "id": "6076",
                         "index": 3,
                         "parentId": "6032",
@@ -2111,7 +2120,7 @@
                     },
                     {
                         "dateAdded": 1730712146762,
-                        "dateLastUsed": 1749194948492,
+                        "dateLastUsed": 1750072443319,
                         "id": "6066",
                         "index": 15,
                         "parentId": "6032",
@@ -2159,7 +2168,7 @@
                     },
                     {
                         "dateAdded": 1710831771804,
-                        "dateLastUsed": 1732932838091,
+                        "dateLastUsed": 1749884776655,
                         "id": "5876",
                         "index": 20,
                         "parentId": "6032",
@@ -2169,6 +2178,7 @@
                     },
                     {
                         "dateAdded": 1736838418237,
+                        "dateLastUsed": 1749884776048,
                         "id": "6087",
                         "index": 21,
                         "parentId": "6032",
@@ -2178,6 +2188,7 @@
                     },
                     {
                         "dateAdded": 1743414070334,
+                        "dateLastUsed": 1750072430696,
                         "id": "6103",
                         "index": 22,
                         "parentId": "6032",
