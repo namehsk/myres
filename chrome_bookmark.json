@@ -22,7 +22,7 @@
             },
             {
                 "dateAdded": 1755232279348,
-                "dateLastUsed": 1757669393690,
+                "dateLastUsed": 1761702357125,
                 "id": "6609",
                 "index": 2,
                 "parentId": "1",
@@ -51,7 +51,7 @@
             },
             {
                 "dateAdded": 1755232279349,
-                "dateLastUsed": 1757828841648,
+                "dateLastUsed": 1761706816858,
                 "id": "6612",
                 "index": 5,
                 "parentId": "1",
@@ -82,7 +82,7 @@
                     },
                     {
                         "dateAdded": 1755232279350,
-                        "dateLastUsed": 1757849448114,
+                        "dateLastUsed": 1761793349525,
                         "id": "6624",
                         "index": 2,
                         "parentId": "6613",
@@ -92,7 +92,7 @@
                     },
                     {
                         "dateAdded": 1755232279351,
-                        "dateLastUsed": 1757668629523,
+                        "dateLastUsed": 1761701120063,
                         "id": "6625",
                         "index": 3,
                         "parentId": "6613",
@@ -102,7 +102,7 @@
                     },
                     {
                         "dateAdded": 1755232279351,
-                        "dateLastUsed": 1757654518479,
+                        "dateLastUsed": 1761791727088,
                         "id": "6626",
                         "index": 4,
                         "parentId": "6613",
@@ -121,17 +121,26 @@
                     },
                     {
                         "dateAdded": 1757648098273,
-                        "dateLastUsed": 1757648166577,
+                        "dateLastUsed": 1761535007905,
                         "id": "6845",
                         "index": 6,
                         "parentId": "6613",
                         "syncing": true,
                         "title": "淘股吧",
                         "url": "https://www.tgb.cn/newIndex/"
+                    },
+                    {
+                        "dateAdded": 1761793570070,
+                        "id": "6849",
+                        "index": 7,
+                        "parentId": "6613",
+                        "syncing": true,
+                        "title": "工具达人 | 实用工具分享达人",
+                        "url": "https://toolsdar.cn/"
                     }
                 ],
                 "dateAdded": 1755232279349,
-                "dateGroupModified": 1757655563256,
+                "dateGroupModified": 1761793573150,
                 "id": "6613",
                 "index": 6,
                 "parentId": "1",
@@ -156,7 +165,7 @@
                                     },
                                     {
                                         "dateAdded": 1755232279437,
-                                        "dateLastUsed": 1757403345124,
+                                        "dateLastUsed": 1760534252848,
                                         "id": "6829",
                                         "index": 1,
                                         "parentId": "6758",
@@ -214,7 +223,7 @@
                                     },
                                     {
                                         "dateAdded": 1755232279438,
-                                        "dateLastUsed": 1755593095100,
+                                        "dateLastUsed": 1758848868799,
                                         "id": "6834",
                                         "index": 1,
                                         "parentId": "6759",
@@ -244,7 +253,7 @@
                                     },
                                     {
                                         "dateAdded": 1755232279439,
-                                        "dateLastUsed": 1755675805379,
+                                        "dateLastUsed": 1758506690747,
                                         "id": "6836",
                                         "index": 1,
                                         "parentId": "6760",
@@ -322,7 +331,7 @@
                         "children": [
                             {
                                 "dateAdded": 1755232279395,
-                                "dateLastUsed": 1755851903010,
+                                "dateLastUsed": 1759897502376,
                                 "id": "6764",
                                 "index": 0,
                                 "parentId": "6629",
@@ -332,7 +341,7 @@
                             },
                             {
                                 "dateAdded": 1755232279396,
-                                "dateLastUsed": 1757828795932,
+                                "dateLastUsed": 1761700030102,
                                 "id": "6765",
                                 "index": 1,
                                 "parentId": "6629",
@@ -342,7 +351,7 @@
                             },
                             {
                                 "dateAdded": 1755232279396,
-                                "dateLastUsed": 1756286838941,
+                                "dateLastUsed": 1760443877583,
                                 "id": "6766",
                                 "index": 2,
                                 "parentId": "6629",
@@ -352,7 +361,7 @@
                             },
                             {
                                 "dateAdded": 1755232279396,
-                                "dateLastUsed": 1756879080401,
+                                "dateLastUsed": 1760531327851,
                                 "id": "6767",
                                 "index": 3,
                                 "parentId": "6629",
@@ -362,6 +371,7 @@
                             },
                             {
                                 "dateAdded": 1755232279396,
+                                "dateLastUsed": 1760443887414,
                                 "id": "6768",
                                 "index": 4,
                                 "parentId": "6629",
@@ -539,7 +549,7 @@
                             },
                             {
                                 "dateAdded": 1755232279399,
-                                "dateLastUsed": 1757294498443,
+                                "dateLastUsed": 1761638797657,
                                 "id": "6783",
                                 "index": 1,
                                 "parentId": "6631",
@@ -913,6 +923,7 @@
                     },
                     {
                         "dateAdded": 1755232279376,
+                        "dateLastUsed": 1760596136990,
                         "id": "6669",
                         "index": 9,
                         "parentId": "6616",
@@ -1030,6 +1041,7 @@
                     },
                     {
                         "dateAdded": 1755232279379,
+                        "dateLastUsed": 1758525454433,
                         "id": "6682",
                         "index": 22,
                         "parentId": "6616",
@@ -1048,6 +1060,7 @@
                     },
                     {
                         "dateAdded": 1755232279380,
+                        "dateLastUsed": 1761620918897,
                         "id": "6684",
                         "index": 24,
                         "parentId": "6616",
@@ -1084,7 +1097,7 @@
                     },
                     {
                         "dateAdded": 1755232279381,
-                        "dateLastUsed": 1757639992115,
+                        "dateLastUsed": 1761730432365,
                         "id": "6688",
                         "index": 28,
                         "parentId": "6616",
@@ -1118,10 +1131,19 @@
                         "syncing": true,
                         "title": "7×24小时全球实时财经新闻快讯 - 富途牛牛",
                         "url": "https://news.futunn.com/main/live"
+                    },
+                    {
+                        "dateAdded": 1761290253747,
+                        "id": "6847",
+                        "index": 32,
+                        "parentId": "6616",
+                        "syncing": true,
+                        "title": "完整的测试流程规范指南 - 专业软件测试最佳实践",
+                        "url": "https://wikvelvy4ccym.ok.kimi.link/#testing-process"
                     }
                 ],
                 "dateAdded": 1755232279349,
-                "dateGroupModified": 1755232279381,
+                "dateGroupModified": 1761793570070,
                 "id": "6616",
                 "index": 9,
                 "parentId": "1",
@@ -1132,6 +1154,7 @@
                 "children": [
                     {
                         "dateAdded": 1755232279381,
+                        "dateLastUsed": 1761289928744,
                         "id": "6692",
                         "index": 0,
                         "parentId": "6617",
@@ -1869,7 +1892,7 @@
                     },
                     {
                         "dateAdded": 1755232279386,
-                        "dateLastUsed": 1757831626727,
+                        "dateLastUsed": 1758612851309,
                         "id": "6724",
                         "index": 6,
                         "parentId": "6619",
@@ -1879,7 +1902,7 @@
                     },
                     {
                         "dateAdded": 1756811210116,
-                        "dateLastUsed": 1757667906529,
+                        "dateLastUsed": 1760064686769,
                         "id": "6843",
                         "index": 7,
                         "parentId": "6619",
@@ -1957,7 +1980,7 @@
                     },
                     {
                         "dateAdded": 1755232279389,
-                        "dateLastUsed": 1757831593151,
+                        "dateLastUsed": 1761291002321,
                         "id": "6731",
                         "index": 1,
                         "parentId": "6621",
