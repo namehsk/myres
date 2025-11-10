@@ -3,7 +3,7 @@
         "children": [
             {
                 "dateAdded": 1755232279346,
-                "dateLastUsed": 1756431201787,
+                "dateLastUsed": 1762753225661,
                 "id": "6607",
                 "index": 0,
                 "parentId": "1",
@@ -22,7 +22,7 @@
             },
             {
                 "dateAdded": 1755232279348,
-                "dateLastUsed": 1761702357125,
+                "dateLastUsed": 1762739604579,
                 "id": "6609",
                 "index": 2,
                 "parentId": "1",
@@ -51,7 +51,7 @@
             },
             {
                 "dateAdded": 1755232279349,
-                "dateLastUsed": 1761706816858,
+                "dateLastUsed": 1762739035465,
                 "id": "6612",
                 "index": 5,
                 "parentId": "1",
@@ -82,7 +82,7 @@
                     },
                     {
                         "dateAdded": 1755232279350,
-                        "dateLastUsed": 1761793349525,
+                        "dateLastUsed": 1762755212863,
                         "id": "6624",
                         "index": 2,
                         "parentId": "6613",
@@ -92,7 +92,7 @@
                     },
                     {
                         "dateAdded": 1755232279351,
-                        "dateLastUsed": 1761701120063,
+                        "dateLastUsed": 1761801991418,
                         "id": "6625",
                         "index": 3,
                         "parentId": "6613",
@@ -102,7 +102,7 @@
                     },
                     {
                         "dateAdded": 1755232279351,
-                        "dateLastUsed": 1761791727088,
+                        "dateLastUsed": 1762739323759,
                         "id": "6626",
                         "index": 4,
                         "parentId": "6613",
@@ -131,16 +131,27 @@
                     },
                     {
                         "dateAdded": 1761793570070,
+                        "dateLastUsed": 1761793585632,
                         "id": "6849",
                         "index": 7,
                         "parentId": "6613",
                         "syncing": true,
                         "title": "工具达人 | 实用工具分享达人",
                         "url": "https://toolsdar.cn/"
+                    },
+                    {
+                        "dateAdded": 1762742097257,
+                        "dateLastUsed": 1762742113526,
+                        "id": "6851",
+                        "index": 8,
+                        "parentId": "6613",
+                        "syncing": true,
+                        "title": "大盘云图 - A股热力图",
+                        "url": "https://52etf.site/"
                     }
                 ],
                 "dateAdded": 1755232279349,
-                "dateGroupModified": 1761793573150,
+                "dateGroupModified": 1762742110128,
                 "id": "6613",
                 "index": 6,
                 "parentId": "1",
@@ -165,7 +176,7 @@
                                     },
                                     {
                                         "dateAdded": 1755232279437,
-                                        "dateLastUsed": 1760534252848,
+                                        "dateLastUsed": 1762737067387,
                                         "id": "6829",
                                         "index": 1,
                                         "parentId": "6758",
@@ -341,7 +352,7 @@
                             },
                             {
                                 "dateAdded": 1755232279396,
-                                "dateLastUsed": 1761700030102,
+                                "dateLastUsed": 1762737004058,
                                 "id": "6765",
                                 "index": 1,
                                 "parentId": "6629",
@@ -351,7 +362,7 @@
                             },
                             {
                                 "dateAdded": 1755232279396,
-                                "dateLastUsed": 1760443877583,
+                                "dateLastUsed": 1761875112880,
                                 "id": "6766",
                                 "index": 2,
                                 "parentId": "6629",
@@ -549,7 +560,7 @@
                             },
                             {
                                 "dateAdded": 1755232279399,
-                                "dateLastUsed": 1761638797657,
+                                "dateLastUsed": 1762741661021,
                                 "id": "6783",
                                 "index": 1,
                                 "parentId": "6631",
@@ -1097,7 +1108,7 @@
                     },
                     {
                         "dateAdded": 1755232279381,
-                        "dateLastUsed": 1761730432365,
+                        "dateLastUsed": 1762740773729,
                         "id": "6688",
                         "index": 28,
                         "parentId": "6616",
@@ -1131,19 +1142,10 @@
                         "syncing": true,
                         "title": "7×24小时全球实时财经新闻快讯 - 富途牛牛",
                         "url": "https://news.futunn.com/main/live"
-                    },
-                    {
-                        "dateAdded": 1761290253747,
-                        "id": "6847",
-                        "index": 32,
-                        "parentId": "6616",
-                        "syncing": true,
-                        "title": "完整的测试流程规范指南 - 专业软件测试最佳实践",
-                        "url": "https://wikvelvy4ccym.ok.kimi.link/#testing-process"
                     }
                 ],
                 "dateAdded": 1755232279349,
-                "dateGroupModified": 1761793570070,
+                "dateGroupModified": 1762742100808,
                 "id": "6616",
                 "index": 9,
                 "parentId": "1",
@@ -1594,10 +1596,19 @@
                         "syncing": true,
                         "title": "Python接口、WEB自动化（高级课程）",
                         "url": "https://docs.qq.com/sheet/DV1lqWVBYWXlKS01J?tab=BB08J2&login_t=1709113477150"
+                    },
+                    {
+                        "dateAdded": 1761290253747,
+                        "id": "6847",
+                        "index": 12,
+                        "parentId": "6617",
+                        "syncing": true,
+                        "title": "完整的测试流程规范指南 - 专业软件测试最佳实践",
+                        "url": "https://wikvelvy4ccym.ok.kimi.link/#testing-process"
                     }
                 ],
                 "dateAdded": 1755232279349,
-                "dateGroupModified": 1755232279383,
+                "dateGroupModified": 1762742097257,
                 "id": "6617",
                 "index": 10,
                 "parentId": "1",
