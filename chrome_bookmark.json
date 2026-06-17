@@ -78,7 +78,7 @@
                     },
                     {
                         "dateAdded": 1779844655878,
-                        "dateLastUsed": 1780539090050,
+                        "dateLastUsed": 1781665272475,
                         "id": "269",
                         "index": 2,
                         "parentId": "256",
@@ -88,7 +88,7 @@
                     },
                     {
                         "dateAdded": 1779844655878,
-                        "dateLastUsed": 1780536881228,
+                        "dateLastUsed": 1781664995184,
                         "id": "270",
                         "index": 3,
                         "parentId": "256",
@@ -98,7 +98,7 @@
                     },
                     {
                         "dateAdded": 1779844655878,
-                        "dateLastUsed": 1780477023975,
+                        "dateLastUsed": 1781661885146,
                         "id": "271",
                         "index": 4,
                         "parentId": "256",
@@ -153,7 +153,7 @@
                     },
                     {
                         "dateAdded": 1779844655879,
-                        "dateLastUsed": 1780288436282,
+                        "dateLastUsed": 1781665781242,
                         "id": "277",
                         "index": 10,
                         "parentId": "256",
@@ -183,7 +183,7 @@
                 "children": [
                     {
                         "dateAdded": 1779844759482,
-                        "dateLastUsed": 1780483076140,
+                        "dateLastUsed": 1781659568942,
                         "id": "510",
                         "index": 0,
                         "parentId": "509",
@@ -193,7 +193,7 @@
                     },
                     {
                         "dateAdded": 1779844768483,
-                        "dateLastUsed": 1780464514516,
+                        "dateLastUsed": 1781664985432,
                         "id": "511",
                         "index": 1,
                         "parentId": "509",
@@ -203,7 +203,7 @@
                     },
                     {
                         "dateAdded": 1779844778980,
-                        "dateLastUsed": 1779858808664,
+                        "dateLastUsed": 1780628971432,
                         "id": "512",
                         "index": 2,
                         "parentId": "509",
@@ -223,7 +223,7 @@
                     }
                 ],
                 "dateAdded": 1779844737379,
-                "dateGroupModified": 1780381587896,
+                "dateGroupModified": 1780540031910,
                 "id": "509",
                 "index": 7,
                 "parentId": "1",
@@ -1125,6 +1125,7 @@
                     },
                     {
                         "dateAdded": 1779844655883,
+                        "dateLastUsed": 1781158726962,
                         "id": "332",
                         "index": 21,
                         "parentId": "259",
@@ -1217,7 +1218,7 @@
                 "children": [
                     {
                         "dateAdded": 1779844655884,
-                        "dateLastUsed": 1780298956940,
+                        "dateLastUsed": 1780976917100,
                         "id": "341",
                         "index": 0,
                         "parentId": "260",
@@ -2464,19 +2465,79 @@
                         "syncing": false,
                         "title": "掌机+主机+街机+手机+电脑+模拟器游戏合集",
                         "url": "https://www.kdocs.cn/l/cuq4qQYaj6Ah"
+                    },
+                    {
+                        "dateAdded": 1780540031910,
+                        "id": "516",
+                        "index": 29,
+                        "parentId": "265",
+                        "syncing": false,
+                        "title": "ModelScope - Skills 技能中心",
+                        "url": "https://www.modelscope.cn/skills"
                     }
                 ],
                 "dateAdded": 1779844655878,
-                "dateGroupModified": 1779844655890,
+                "dateGroupModified": 1780541669131,
                 "id": "265",
                 "index": 16,
                 "parentId": "1",
                 "syncing": false,
                 "title": "常用网站"
+            },
+            {
+                "children": [
+                    {
+                        "dateAdded": 1780541695907,
+                        "dateLastUsed": 1781249515098,
+                        "id": "519",
+                        "index": 0,
+                        "parentId": "518",
+                        "syncing": false,
+                        "title": "DeepSeek 余额",
+                        "url": "https://platform.deepseek.com/usage"
+                    }
+                ],
+                "dateAdded": 1780541683362,
+                "dateGroupModified": 1780541695907,
+                "id": "518",
+                "index": 17,
+                "parentId": "1",
+                "syncing": false,
+                "title": "AI"
+            },
+            {
+                "children": [
+                    {
+                        "dateAdded": 1781595832748,
+                        "id": "522",
+                        "index": 0,
+                        "parentId": "521",
+                        "syncing": false,
+                        "title": "整体流程",
+                        "url": "https://www.yuque.com/moqiu-ua1k1/tlx2rs/ml561exgcxsi9ti1?singleDoc#%20%E3%80%8A%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E3%80%8B"
+                    },
+                    {
+                        "dateAdded": 1781595888218,
+                        "dateLastUsed": 1781611556033,
+                        "id": "523",
+                        "index": 1,
+                        "parentId": "521",
+                        "syncing": false,
+                        "title": "测试账号",
+                        "url": "https://www.yuque.com/moqiu-ua1k1/tlx2rs/hhfgk3mg6ez44olf?singleDoc#%20%E3%80%8A%E6%B5%8B%E8%AF%95%E8%B4%A6%E5%8F%B7%E3%80%8B"
+                    }
+                ],
+                "dateAdded": 1781595828837,
+                "dateGroupModified": 1781595888218,
+                "id": "521",
+                "index": 18,
+                "parentId": "1",
+                "syncing": false,
+                "title": "工作语雀"
             }
         ],
         "dateAdded": 1779150544453,
-        "dateGroupModified": 1779844741088,
+        "dateGroupModified": 1781595832748,
         "folderType": "bookmarks-bar",
         "id": "1",
         "index": 0,
